@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Latif</h1>
-<h3 align="center">A passionate frontend React JS developer from Lahore.</h3>
+<h2 align="center">A passionate frontend React JS developer from Lahore.</h2>
+<img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="240" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-latif&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-latif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan-latif" alt="zeeshan-latif" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack.**
 
